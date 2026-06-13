@@ -60,7 +60,3 @@ python analysis.py
 - Hyderabad and Chennai have high sales
 
 ---
-
-# Author
-
-Created for Internship Task Submission
